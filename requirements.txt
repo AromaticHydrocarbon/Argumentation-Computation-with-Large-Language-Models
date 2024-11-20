@@ -1,5 +1,4 @@
 transformers==4.43.4
-bitsandbytes
 datasets==3.1.0
 fastapi
 fire
@@ -8,7 +7,6 @@ gradio
 groq
 jieba
 matplotlib
-MoD
 modelscope
 networkx
 nltk
@@ -25,7 +23,6 @@ pysat
 pytest
 PyYAML
 Requests
-rouge_chinese
 safetensors
 scikit_learn
 setuptools
@@ -36,4 +33,3 @@ tqdm
 trl
 typing_extensions
 uvicorn
-vllm
